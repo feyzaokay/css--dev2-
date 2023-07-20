@@ -1,0 +1,46 @@
+.body{
+    background-color: beige;
+}
+
+
+
+.google{
+    text-align: center;
+    margin-top: 150px;
+}
+
+.input{
+    /* display: block; */
+}
+
+.ilk-div{
+    text-align: center;
+    background-color: rgb(213, 235, 238);
+    padding: 15px;
+}
+
+.ikinci-div{
+    text-align: center;
+    background-color:rgb(151, 180, 243);
+}
+
+.ikinci-ilk-div{
+    display: inline-block;
+    text-align: center;
+width: 33%;}
+
+.ikinci-iki-div{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.ikinci-son-div{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+}
+
+.footer{
+    text-align: center;
+}
